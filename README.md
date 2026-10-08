@@ -22,11 +22,9 @@ Foi feito para praticar programação orientada a objetos: herança, polimorfism
 
 ## Como rodar
 
-O projeto fica dentro da pasta `Projetos/Sistema Bancário` do repositório.
-
 ```bash
-git clone https://github.com/lucasoliveira0jcc-ux/estudos-java.git
-cd "estudos-java/Projetos/Sistema Bancário"
+git clone https://github.com/lucasoliveira0jcc-ux/sistema-bancario.git
+cd sistema-bancario
 mvn clean test
 ```
 
